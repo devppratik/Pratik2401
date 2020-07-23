@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/Pratik2401">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik2401&theme=dark&hide_langs_below=1" />
 </a>
-<a href="https://github.com/iampawan">
+<a href="https://github.com/Pratik2401">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratik2401&show_icons=true&theme=dracula&line_height=27" alt="Pratik's github stats"/>
 </a>
