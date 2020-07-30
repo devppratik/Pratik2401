@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+I am Pratik Panda
 
 - 🔭 I’m currently Freelancing
 - 🌱 I’m currently learning node.js
