@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Kumar Panda</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/codepratik" target="blank"><img src="https://img.shields.io/twitter/follow/codepratik?logo=twitter&style=for-the-badge" alt="codepratik" /></a> </p>
+<p align="left"> <a href="https://twitter.com/devppratik" target="blank"><img src="https://img.shields.io/twitter/follow/codepratik?logo=twitter&style=for-the-badge" alt="codepratik" /></a> </p>
 
 - 🔭 I’m currently working on **something🧐**
 
